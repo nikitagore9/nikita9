@@ -1,0 +1,6 @@
+
+Sep 26, 2017 19:23:08.41 NEW SESSION
+Sep 26, 2017 19:23:08.41 [2468:11256:0926/192308.413:ERROR:shader_disk_cache.cc(237)] Failed to create shader cache entry: -2
+
+Nov 13, 2017 19:31:37.31 NEW SESSION
+Nov 13, 2017 19:31:37.31 [6912:11700:1113/193137.250:ERROR:gpu_process_transport_factory.cc(992)] Lost UI shared context.

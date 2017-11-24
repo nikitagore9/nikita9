@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Nov 13 19:31:07 IST 2017
+org.eclipse.jst.j2ee.server\:shoppingbackend=WEB-INF/lib/shoppingbackend-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\neha\\.m2\\repository\\org\\springframework\\spring-web\\4.3.11.RELEASE\\spring-web-4.3.11.RELEASE.jar=WEB-INF/lib/spring-web-4.3.11.RELEASE.jar
