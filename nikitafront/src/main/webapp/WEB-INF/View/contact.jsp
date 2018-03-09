@@ -1,0 +1,72 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>contact us</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+<style>
+body {
+    background-image: url("resources/images/Pink.jpg");
+}
+
+p.italic {
+    font-style: italic;
+}
+
+ p {
+    font-size:50px;
+}
+h1 {
+    font-size:80px;
+}
+h1{
+font-family:French Script MT}
+h2 {
+    font-size:80px;
+}
+h2{
+font-family:French Script MT}
+p{
+font-family:French Script MT}
+body {
+    color:white;
+}
+
+img {
+     width:40px;
+    height:30px;
+  margin: auto;;
+}
+
+</style>
+<body>
+<div class="container">
+<jsp:include page="navbar.jsp" />
+
+<h1>Fullerton location</h1>
+<p>3020 N Brea Blvd
+Fullerton, CA 92835
+714.529.3989
+</p>
+
+<h2>Yorba linda location</h2>
+
+<p>4975 Yorba Ranch Rd
+Yorba Linda, CA 92887
+714.779.8000
+
+</p>
+
+
+
+<jsp:include page="footer.jsp" />
+
+</div>
+</body>
+</html>
